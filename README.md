@@ -11,7 +11,7 @@
 #### 介绍：
 2022.10-2023.04————云上华农酸奶展销部—————后端开发（3人团队）
 #### 项目描述：
-采用 Spring Boot、MyBatis-Plus、Redis、MySQL 等技术实现的华农酸奶展销管理及选购平台（后端：ZYL、ZYB；前端：ZJC）。
+采用 Spring Boot、MyBatis-Plus、Redis、MySQL 等技术实现的华农酸奶展销管理及选购平台（后端开发：ZYL、ZYB；前端开发：ZJC）。
 #### 我的职责：
 - 使用Spring Boot技术栈及Redis，实现管理员端及用户选购端的基本功能并添加缓存；
 - 通过Linux系统配置MySQL主从复制读写分离，减轻数据库负担，增大系统承受能力； 
