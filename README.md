@@ -1,7 +1,7 @@
 # CloudSCAUYoghurt_ZYLZYBZJC
-**项目源码-码云Gittee地址：https://gitee.com/reffozhijian/CloudSCAUYoghurt_ZYLZYBZJC**
+**项目源码-码云Gittee地址: https://gitee.com/reffozhijian/CloudSCAUYoghurt_ZYLZYBZJC**
 
-**项目源码-GitHub地址：https://github.com/reffozhijian/CloudSCAUYoghurt_ZYLZYBZJC**
+**项目源码-GitHub地址: https://github.com/reffozhijian/CloudSCAUYoghurt_ZYLZYBZJC**
 
 #### 介绍
 2022.10-2023.04———————云上华农酸奶展销部—————————后端开发（3人团队：后端-ZYL&ZYB；前端-ZJC）
