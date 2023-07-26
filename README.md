@@ -23,4 +23,4 @@
 2.  在自己的本地数据库新建SCAUYoghurt数据库，并在该数据库下运行src/main/resources/ **SCAUYoghurt.sql** 文件，启动自己在yml文件中相应的Redis等配置；
 3.  在IDEA中运行src/main/java/com/zylzyb/SCAUYoghurt/**SCAUYoghurtApplication.java**文件；
 4.  成功运行完上述文件后，访问  http://localhost:8080/backend/page/login/login.html  地址即可进入华农酸奶展销部后台管理端，访问
-    http://localhost:8080/front/page/login.html  （并开启F12调试页面视图效果为手机app模式）即可进入华农酸奶展销部前台用户端（手机登录验证码在IDEA控制台查看获取）；
+    http://localhost:8080/front/page/login.html  （并开启F12调试页面视图效果为手机app模式）即可进入华农酸奶展销部前台用户端（手机登录验证码在IDEA控制台查看获取）。
